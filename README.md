@@ -17,3 +17,4 @@ Python
 ## Links
 
 [freeCodeCamp.org](https://www.freecodecamp.org)
+curriculum/challenges/english/blocks/daily-coding-challenges-python 
